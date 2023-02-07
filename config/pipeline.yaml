@@ -1,0 +1,7 @@
+input:
+  generate:
+    count: 1
+    mapping: 'root = {"foo": "bar"}'
+
+output:
+  stdout: { }
